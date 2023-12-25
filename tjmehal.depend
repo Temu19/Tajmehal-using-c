@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1688638723 source:c:\users\mihre\onedrive\desktop\tjmehal\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<graphics.h>
+
+1693560316 source:c:\users\mihre\onedrive\desktop\graphics all\tjmehal\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<graphics.h>
+
+1703509011 source:c:\users\lenovo\desktop\projects\tjmehal\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<graphics.h>
+
